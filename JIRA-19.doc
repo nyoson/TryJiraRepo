@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#JIRA-19] コミットコメントの連携</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://nyoson.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://nyoson.atlassian.net/browse/"></a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://nyoson.atlassian.net/browse/"></a>)</span>
+                <h3 class="formtitle"><img src="https://nyoson.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [JIRA-19]&nbsp;<a href="https://nyoson.atlassian.net/browse/JIRA-19">コミットコメントの連携</a>
+            <span class="subText">
+               作成日: 31/8/21                   &nbsp;更新日: 31/8/21
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>ステータス:</b></td>
+        <td width="80%">To Do</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>プロジェクト:</b></td>
+        <td width="80%"><a href="https://nyoson.atlassian.net/secure/BrowseProject.jspa?id=10000">TryJiraProject</a></td>
+    </tr>
+
+        <tr>
+            <td><b>コンポーネント:</b></td>
+            <td>
+                            なし
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>影響するバージョン:</b></td>
+            <td>
+                            なし
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>修正バージョン:</b></td>
+            <td>
+                            なし
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>タイプ:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            サブタスク
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>優先度:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>報告者:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="6125e779fc55090071ff3d02"
+                id="word_reporter_6125e779fc55090071ff3d02"
+                href="https://nyoson.atlassian.net/secure/ViewProfile.jspa?accountId=6125e779fc55090071ff3d02">
+                    Nen Ten
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>担当者:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    未割り当て
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>解決状況:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				未解決
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>投票:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>ラベル:</b>
+        </td>
+        <td id="labels-10020-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            なし
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>残余見積:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            指定なし
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>消費時間:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            指定なし
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>初期見積:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            指定なし
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10020-value" class="value" bgcolor="#ffffff" width="80%">スプリント 2</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Story point estimate:</b></td>
+                <td id="customfield_10016-10020-value" class="value" bgcolor="#ffffff" width="80%">    10
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10020-value" class="value" bgcolor="#ffffff" width="80%">      0|i0002f:
+  </td>
+            </tr>
+            </table>
+
+
+Nen Ten により Tue Aug 31 05:12:51 UTC 2021 に JIRA 1001.0.0-SNAPSHOT#100175-sha1:61f0814aec1e0d983f0856e4d48ed3dc46c6a9d5 から生成されました
+
+</body>
+</html>
